@@ -1,0 +1,9 @@
+This repository just contains the code and examples used in my various Engine Yard blog articles.
+
+Articles with code represented here:
+
+* What Are Events, Why Might you care, and how can EventMachine help?
+  - what_are_events/
+
+Kirk Haines
+khaines@engineyard.com

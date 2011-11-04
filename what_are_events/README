@@ -1,0 +1,12 @@
+This is the code for the article titled:
+
+What Are Events, Why Might you care, and how can EventMachine help?
+
+The first example and reactor skeleton is in:
+
+just_timers_example/
+
+The full reactor implementation, with a couple examples, as well as a
+comparative example written with EventMachine, is in:
+
+full_example_with_io/
